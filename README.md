@@ -1,4 +1,4 @@
-# Focus Games
+# Chiku
 
 Brain games that train concentration (Android).
 
